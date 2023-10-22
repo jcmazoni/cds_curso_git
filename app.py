@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit as st # adicionado a biblioteca do stremlit
 from src.extraction import load_data
 
 st.set_page_config(layout='wide')
