@@ -52,9 +52,9 @@ def create_answers_section(df):
     st.subheader("Which company has the most bikes registered?")
 
     st.subheader("Which company has the most expensive bikes on avarege?")
-
+    
     st.subheader("Are the company that has the most expensive bikes registered also the company with the most bikes registered?")
-
+    
     st.subheader("Which bikes are good for buying?")
     
     return None
